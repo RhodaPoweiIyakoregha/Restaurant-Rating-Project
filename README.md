@@ -1,1 +1,1 @@
-# Restaurant-Rating-Project
+# Restaurant-Ratings-Project
