@@ -57,7 +57,7 @@ Ages from 25 below are classified as young adults with 72.46% with a count of 10
 
 When demand was too high this affected the sales even in the highest rated restaurants whereby cuisines are not available to the consumers causing a stalling point in the restaurants and poor first impressions.
 
-##Restaurant  Characteristics for Investing
+4. ## Restaurant  Characteristics for Investing
 
 ![](restaurant_investment_metrics.png)
 4.(A)Market size
