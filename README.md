@@ -37,7 +37,7 @@ It contains 5 tables/sheets:
 ## Visualization
 the report comprises of two pages
 
-              Dashboard 1      |     Dashboard   2
+
               :---------------:|:----------------:
 ![](restaurant_dashboard1.png) | ![](restaurant_dashboard2.png)
 
