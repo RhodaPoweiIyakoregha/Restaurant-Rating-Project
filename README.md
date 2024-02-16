@@ -21,7 +21,7 @@ Average,
 Data Modelling: Star Schema.
 
 ## Data Modelling
-Automatically created relationship between all 5 tables are adjusted to remove unwanted relationships with the required resulting in a schema model.
+I created relationship between all 5 tables which was adjusted to remove unwanted relationships with the required resulting in a schema model.
 
 ![](Restaurant_modelling.png)
 
@@ -48,6 +48,7 @@ Marital Status; from the data set 128 consumers with a percentage of 92.75% are 
 
 Occupation; majority of consumers are students with a count of 120, followed by the employed  with a count of 16 and lastly the unemployed with a low count of 2.
 Ages from 25 below are classified as young adults with 72.46% with a count of 100, Ages from 25-33 are grouped as youth with 18.25% and count of 26, Ages from 72 and above are grouped as Elderly with 5.8% with a count of 8, while Ages from 45-69 are considered middle-aged with 2.9% and a low count of 4.
+
  This shows that there was a bias in the data sample as age groups between 25 below, 26-33 and 45-69 were considered as kids
  
 3.Consumer Budget
@@ -60,6 +61,8 @@ When demand was too high this affected the sales even in the highest rated resta
 4. ## Restaurant  Characteristics for Investing
 
 ![](restaurant_investment_metrics.png)
+
+
 4.(A)Market size
 Market gap is expected to grow annually by magnificent (CAGR 2024-2030), Areas in north America are expected to grow considerable during the forcasted period, the use of large players in the region are likely to create ample growth oppurtunities in the market,the restaurant market is projected to reach multi million USD by 2030.
 
@@ -74,14 +77,17 @@ There are lots of competitors in the restaurant biz; e.g starbucks, burger king,
 
 (C)Risk from Entry
 Insufficient cash flow;failing to raise sufficient capital can be a disaster, it requires a lot of time for a restaurant to establish itself in order to become profitable.
+
 Inadequate Marketing;there is a huge problem with attracting more customers, it could be from the menu or décor.
 
 (D)Benefits of franchising
-Franchising offer the strong brand awareness and security,the investor gets the right to use the restaurants name,trademark,branding and business model(Royalties from your licesnsed brand with an increased fee of 4% and 10%)
+Franchising offer the strong brand awareness and security.
+the investor gets the right to use the restaurants name,trademark,branding and business model(Royalties from your licesnsed brand with an increased fee of 4% and 10%)
 
-Disadvantages of Franchising; you will have to share control with other investors,investors are 100% responsible if one/several restaurants don’t turn profit and investing entails time,capital and resources.
+Disadvantages of Franchising; you will have to share control with other investors.
+investors are 100% responsible if one/several restaurants don’t turn profit and investing entails time,capital and resources.
 
-Thanks for reading.. 
+Thanks for reading.. 😄 
 
 
 
