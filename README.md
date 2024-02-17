@@ -53,12 +53,15 @@ Ages from 25 below are classified as young adults with 72.46% with a count of 10
  
 3.Consumer Budget
 99(71.01%) consumers had a medium budget,35(25.36%) Consumers had a low budget and 5(3.62%) had a high budget
+
  Cuisines Price
 33(25.36%) cuisines had a high price, 58(42.03%) had a medium price and 47(34.06%) had a low price.
 
 When demand was too high this affected the sales even in the highest rated restaurants whereby cuisines are not available to the consumers causing a stalling point in the restaurants and poor first impressions.
 
-4. ## Restaurant  Characteristics for Investing
+when the price of cuisines are medium there's equilibrium in the consumer budget as well which creates stability in the demand and supply.
+
+4. ### Restaurant  Characteristics for Investing
 
 ![](restaurant_investment_metrics.png)
 
@@ -76,16 +79,16 @@ Based on product types the market is categorized into the the below types that h
 There are lots of competitors in the restaurant biz; e.g starbucks, burger king,in-out burger and most especially chipotle which has a lot of variety of unique menus and their product offering is that they have gone into virtual branding franchises which is bound to hit 1 trillion global market by 2030.
 
 (C)Risk from Entry
-Insufficient cash flow;failing to raise sufficient capital can be a disaster, it requires a lot of time for a restaurant to establish itself in order to become profitable.
+Insufficient cash flow; failing to raise sufficient capital can be a disaster, it requires a lot of time for a restaurant to establish itself in order to become profitable.
 
-Inadequate Marketing;there is a huge problem with attracting more customers, it could be from the menu or décor.
+Inadequate Marketing; there is a huge problem with attracting more customers, it could be from the menu or décor.
 
 (D)Benefits of franchising
 Franchising offer the strong brand awareness and security.
 the investor gets the right to use the restaurants name,trademark,branding and business model(Royalties from your licesnsed brand with an increased fee of 4% and 10%)
 
 Disadvantages of Franchising; you will have to share control with other investors.
-investors are 100% responsible if one/several restaurants don’t turn profit and investing entails time,capital and resources.
+investors are 100% responsible if one/several restaurants don’t turn profit and investing entails time,capital and resources. 
 
 Thanks for reading.. 😄 
 
