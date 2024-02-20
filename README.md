@@ -3,7 +3,7 @@
 ![](restaurant_cuisine.png)
 
 ## Introduction
-This Power BI Project is aimed at analysing and drawing out meaningful insights from the **Restaurant Ratings** Data set which contains information about Restaurants in Mexico, the goal is identify data driven strategy and key areas of improvement, presented in a concise Report/Dashboard.
+This Power BI Project is aimed at analysing and drawing out meaningful insights from the **Restaurant Ratings** Data set which contains information about Restaurants in Mexico o. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers, the goal is identify data driven strategy and key areas of improvement, presented in a concise Report/Dashboard.
 
 **_Disclaimer_**; _All data sets report do not represent any company,institution, or country but just a practice data set to demonstrate the capabilities of Power BI._
 
@@ -14,6 +14,7 @@ This Power BI Project is aimed at analysing and drawing out meaningful insights 
 4. If you were to invest in a restaurant, which characteristics would you be looking for?
    
 ## Power BI Concepts Applied
+Removed Duplicates using Power Query
 DAX Concept:
 calculated columns,
 Count,
@@ -40,25 +41,37 @@ the report comprises of two pages
 ![](restaurant_dashboard1.png) | ![](restaurant_dashboard2.png)
 
 ## Analysis
-1(a&b).The highest rated restaurants are La perica Hamburguesa, Restaurant pueblo Bonito, Restaurante y pescaderia Tampico and Vips with an overall rating of 5,The highest rated restaurants are from san luis potosi, cuidad Victoria and Cuernavaca which are the top 3 with most consumers. There are 130 restaurants in mexico
+1(a&b).The highest rated restaurants are;
+
+1.La perica Hamburguesa
+
+2.Restaurant pueblo Bonito
+
+3.Restaurante y pescaderia Tampico and
+
+4.Vips with an overall rating of 5
+
+The highest rated restaurants are from san luis potosi, cuidad Victoria and Cuernavaca which are the top 3 city's with most consumers. There are 130 restaurants in mexico.
 now what is common among these restaurants is the fact that their most preferred cuisines is the Mexican cuisine, it also the most preferred cuisine by price.
 
 
-2. The average age of consumers is 27
+2. The average age of consumers is **27**
  
-Marital Status; from the data set 128 consumers with a percentage of 92.75% are single while 10 of the consumers with a percentage of 7.25% are married.
+#### Marital Status 
+from the data set 128 consumers with a percentage of 92.75% are single while 10 of the consumers with a percentage of 7.25% are married.
 
-Occupation; majority of consumers are students with a count of 120, followed by the employed  with a count of 16 and lastly the unemployed with a low count of 2.
+#### Occupation
+majority of consumers are students with a count of 120, followed by the employed  with a count of 16 and lastly the unemployed with a low count of 2.
 
-Ages from 25 below are classified as young adults with 72.46% with a count of 100, Ages from 25-33 are grouped as youth with 18.25% and count of 26, Ages from 72 and above are grouped as Elderly with 5.8% with a count of 8, while Ages from 45-69 are considered middle-aged with 2.9% and a low count of 4.
+**Ages** from 25 below are classified as young adults with 72.46% with a count of 100, Ages from 25-33 are grouped as youth with 18.25% and count of 26, Ages from 72 and above are grouped as Elderly with 5.8% with a count of 8, while Ages from 45-69 are considered middle-aged with 2.9% and a low count of 4.
 
  This shows that there was a bias in the data sample as age groups between 25 below, 26-33 and 45-69 were considered as kids
  
  
-3.Consumer Budget
+3.  #### Consumer Budget
 99(71.01%) consumers had a medium budget,35(25.36%) Consumers had a low budget and 5(3.62%) had a high budget
 
- Cuisines Price
+#### Cuisines Price
 33(25.36%) cuisines had a high price, 58(42.03%) had a medium price and 47(34.06%) had a low price.
 
 When demand was too high this affected the sales even in the highest rated restaurants whereby cuisines are not available to the consumers causing a stalling point in the restaurants and poor first impressions.
@@ -90,31 +103,31 @@ Smoking is not allowed in 73.08% of restaurants, there are smoking sections in 1
 ![](restaurant_investment_metrics.png)
 
 
-4.(A)Market size
-Market gap is expected to grow annually by magnificent (CAGR 2024-2030), Areas in north America are expected to grow considerable during the forcasted period, the use of large players in the region are likely to create ample growth oppurtunities in the market,the restaurant market is projected to reach multi million USD by 2030.
+4. (A) **Market size**
+**Market gap** is expected to grow annually by magnificent (CAGR 2024-2030), Areas in north America are expected to grow considerable during the forcasted period, the use of large players in the region are likely to create ample growth oppurtunities in the market,the restaurant market is projected to reach multi million USD by 2030.
 
-Product type
+**Product type**
 Based on product types the market is categorized into the the below types that held the largest restaurants market share
 1.fast food
 2.fine dining
 3.others
 
-(B)competitors
+(B)**competitors**
 There are lots of competitors in the restaurant biz; e.g starbucks, burger king,in-out burger and most especially chipotle which has a lot of variety of unique menus and their product offering is that they have gone into virtual branding franchises which is bound to hit 1 trillion global market by 2030.
 
-(C)Risk from Entry
+(C)**Risk from Entry**
 Insufficient cash flow; failing to raise sufficient capital can be a disaster, it requires a lot of time for a restaurant to establish itself in order to become profitable.
 
-Inadequate Marketing; there is a huge problem with attracting more customers, it could be from the menu or décor.
+**Inadequate Marketing**; there is a huge problem with attracting more customers, it could be from the menu or décor.
 
-(D)Benefits of franchising
+(D) **Benefits of franchising**
 Franchising offer the strong brand awareness and security.
 the investor gets the right to use the restaurants name,trademark,branding and business model(Royalties from your licesnsed brand with an increased fee of 4% and 10%)
 
-Disadvantages of Franchising; you will have to share control with other investors.
+**Disadvantages of Franchising**; you will have to share control with other investors.
 investors are 100% responsible if one/several restaurants don’t turn profit and investing entails time,capital and resources. 
 
-Thanks for reading.. 😄 
+### Thanks for reading.. 😄 
 
 
 
