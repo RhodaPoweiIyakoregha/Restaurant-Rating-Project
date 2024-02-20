@@ -65,6 +65,26 @@ When demand was too high this affected the sales even in the highest rated resta
 
 when the price of cuisines are medium there's equilibrium in the consumer budget as well which creates stability in the demand and supply.
 
+
+#### Restauant by Franchise 
+The count of Restaurant where franchising is allowed is 22(16.92%) while in 108(83.08%) it is not allowed.
+
+#### Restaurant by Area
+Restaurants by area that is closed is 115(88.46%) and 15(11.54%) are open for business.
+
+#### Consumer by transportation
+89(64.49%) of consumers use public transportation, 35(25.36%) use their personal cars and 14(10.14) means of transportation is by foot.
+
+#### Restaurant By Alcohol Service
+87(66.92%) restaurants have no alcohol service, 34(26.15%) has wine and bar services and 9(6.92%) of restaurants has a full bar.
+
+#### Restaurant by parking
+50% of restaurants have no parking areas, 35.38% of restaurants has a parking area, 12.31% of restaurants make use of public parking areas and 2.31% make use of valet services.
+
+#### Restaurants by smoking Allowed
+Smoking is not allowed in 73.08% of restaurants, there are smoking sections in 18.46% of restaurants, 6.92% Allow smoking and 1.54% has bar only.
+
+
 4. ### Restaurant  Characteristics for Investing
 
 ![](restaurant_investment_metrics.png)
