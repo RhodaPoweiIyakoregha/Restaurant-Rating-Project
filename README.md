@@ -40,16 +40,20 @@ the report comprises of two pages
 ![](restaurant_dashboard1.png) | ![](restaurant_dashboard2.png)
 
 ## Analysis
-1(a&b).The highest rated restaurants are La perica Hamburguesa, Restaurant pueblo Bonito, Restaurante y pescaderia Tampico and Vips with an overall rating of 5, now what is common among these restaurants is the fact that their most preferred cuisines is the Mexican cuisine.
+1(a&b).The highest rated restaurants are La perica Hamburguesa, Restaurant pueblo Bonito, Restaurante y pescaderia Tampico and Vips with an overall rating of 5,The highest rated restaurants are from san luis potosi, cuidad Victoria and Cuernavaca which are the top 3 with most consumers. There are 130 restaurants in mexico
+now what is common among these restaurants is the fact that their most preferred cuisines is the Mexican cuisine, it also the most preferred cuisine by price.
+
 
 2. The average age of consumers is 27
  
 Marital Status; from the data set 128 consumers with a percentage of 92.75% are single while 10 of the consumers with a percentage of 7.25% are married.
 
 Occupation; majority of consumers are students with a count of 120, followed by the employed  with a count of 16 and lastly the unemployed with a low count of 2.
+
 Ages from 25 below are classified as young adults with 72.46% with a count of 100, Ages from 25-33 are grouped as youth with 18.25% and count of 26, Ages from 72 and above are grouped as Elderly with 5.8% with a count of 8, while Ages from 45-69 are considered middle-aged with 2.9% and a low count of 4.
 
  This shows that there was a bias in the data sample as age groups between 25 below, 26-33 and 45-69 were considered as kids
+ 
  
 3.Consumer Budget
 99(71.01%) consumers had a medium budget,35(25.36%) Consumers had a low budget and 5(3.62%) had a high budget
