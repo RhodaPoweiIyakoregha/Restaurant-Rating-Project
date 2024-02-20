@@ -122,7 +122,7 @@ Insufficient cash flow; failing to raise sufficient capital can be a disaster, i
 
 (D) **Benefits of franchising**
 Franchising offer the strong brand awareness and security.
-the investor gets the right to use the restaurants name,trademark,branding and business model(Royalties from your licesnsed brand with an increased fee of 4% and 10%)
+the investor gets the right to use the restaurants name,trademark,branding and business model(Royalties from your licensed brand with an increased fee of 4% and 10%)
 
 **Disadvantages of Franchising**; you will have to share control with other investors.
 investors are 100% responsible if one/several restaurants don’t turn profit and investing entails time,capital and resources. 
