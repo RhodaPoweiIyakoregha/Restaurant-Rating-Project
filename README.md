@@ -76,8 +76,6 @@ majority of consumers are students with a count of 120, followed by the employed
 
 When demand was too high this affected the sales even in the highest rated restaurants whereby cuisines are not available to the consumers causing a stalling point in the restaurants and poor first impressions.
 
-when the price of cuisines are medium there's equilibrium in the consumer budget as well which creates stability in the demand and supply.
-
 
 #### Restauant by Franchise 
 The count of Restaurant where franchising is allowed is 22(16.92%) while in 108(83.08%) it is not allowed.
@@ -104,8 +102,10 @@ Smoking is not allowed in 73.08% of restaurants, there are smoking sections in 1
 
 
 4. (A) **Market size**
-**Market gap** is expected to grow annually by magnificent (CAGR 2024-2030), Areas in north America are expected to grow considerable during the forcasted period, the use of large players in the region are likely to create ample growth oppurtunities in the market,the restaurant market is projected to reach multi million USD by 2030.
+   it's expected to grow annually by magnificent (CAGR 2024-2030), Areas in north America are expected to grow considerable during the forcasted period, the use of large players in the region are likely to create ample growth oppurtunities in the market,the restaurant market is projected to reach multi million USD by 2030.
 
+**Market Gap**
+There could be issues in the market gap whereby there's a reduction in different unique menues in common dishes that stand out (e.g international cuisines).
 **Product type**
 Based on product types the market is categorized into the the below types that held the largest restaurants market share
 1.fast food
@@ -119,6 +119,8 @@ There are lots of competitors in the restaurant biz; e.g starbucks, burger king,
 Insufficient cash flow; failing to raise sufficient capital can be a disaster, it requires a lot of time for a restaurant to establish itself in order to become profitable.
 
 **Inadequate Marketing**; there is a huge problem with attracting more customers, it could be from the menu or décor.
+
+### Market Profitability
 
 (D) **Benefits of franchising**
 Franchising offer the strong brand awareness and security.
