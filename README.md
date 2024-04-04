@@ -38,7 +38,7 @@ It contains 5 tables/sheets:
 ## Visualization
 the report comprises of two pages
 
-![](restaurant_dashboard1.png) | ![](restaurant_dashboard2.png)
+![](Rest_Original.png) | ![](restaurant_dashboard2.png)
 
 ## Analysis
 1(a&b).The highest rated restaurants are;
